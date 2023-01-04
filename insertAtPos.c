@@ -1,4 +1,4 @@
-// INSERT AT ANY POSITION
+// INSERT AT ANY POSITION  IN DOUBLY LINKED LIST
 
 #include <stdio.h>
 #include <stdlib.h>
